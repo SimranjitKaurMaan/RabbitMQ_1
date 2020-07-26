@@ -19,7 +19,7 @@ namespace Send
                                   autoDelete: false,
                                   arguments: null);
 
-                    string message = "Hello World3!";
+                    string message = "Hello World2!";
                     var body = Encoding.UTF8.GetBytes(message);
 
                     channel.BasicPublish(exchange: "",

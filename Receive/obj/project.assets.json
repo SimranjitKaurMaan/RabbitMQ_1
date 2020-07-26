@@ -115,11 +115,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\work\\rabbitmq_1\\Receive\\Receive.csproj",
+      "projectUniqueName": "D:\\work\\rabbitmq_1\\RabbitMQ_1\\Receive\\Receive.csproj",
       "projectName": "Receive",
-      "projectPath": "D:\\work\\rabbitmq_1\\Receive\\Receive.csproj",
+      "projectPath": "D:\\work\\rabbitmq_1\\RabbitMQ_1\\Receive\\Receive.csproj",
       "packagesPath": "C:\\Users\\v-simaan\\.nuget\\packages\\",
-      "outputPath": "D:\\work\\rabbitmq_1\\Receive\\obj\\",
+      "outputPath": "D:\\work\\rabbitmq_1\\RabbitMQ_1\\Receive\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

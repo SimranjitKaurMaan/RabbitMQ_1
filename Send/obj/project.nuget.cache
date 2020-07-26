@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "illfPuwqLJ3RYRveja9qnPaqAW6P9s0NMDLKpiQiTC630Gw1j84p3fsy9bW8Eb4ASeOyRwPkaJ9sQNl9dU+tow==",
+  "dgSpecHash": "x/YYEqsVFDp6Orko1I4efXCZvn6mCgwAQLpnjeXLGLD941nPZX37oSpp+xySE8QKJtfdtWr/kkgUekf95X2uNg==",
   "success": true,
-  "projectFilePath": "D:\\work\\rabbitmq_1\\Send\\Send.csproj",
+  "projectFilePath": "D:\\work\\rabbitmq_1\\RabbitMQ_1\\Send\\Send.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\v-simaan\\.nuget\\packages\\rabbitmq.client\\6.1.0\\rabbitmq.client.6.1.0.nupkg.sha512",
     "C:\\Users\\v-simaan\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",

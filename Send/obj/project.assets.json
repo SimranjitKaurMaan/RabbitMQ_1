@@ -115,11 +115,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\work\\rabbitmq_1\\Send\\Send.csproj",
+      "projectUniqueName": "D:\\work\\rabbitmq_1\\RabbitMQ_1\\Send\\Send.csproj",
       "projectName": "Send",
-      "projectPath": "D:\\work\\rabbitmq_1\\Send\\Send.csproj",
+      "projectPath": "D:\\work\\rabbitmq_1\\RabbitMQ_1\\Send\\Send.csproj",
       "packagesPath": "C:\\Users\\v-simaan\\.nuget\\packages\\",
-      "outputPath": "D:\\work\\rabbitmq_1\\Send\\obj\\",
+      "outputPath": "D:\\work\\rabbitmq_1\\RabbitMQ_1\\Send\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
