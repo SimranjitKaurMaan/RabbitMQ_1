@@ -1,0 +1,16 @@
+D:\work\rabbitmq_1\Receive\bin\Debug\netcoreapp3.1\Receive.exe
+D:\work\rabbitmq_1\Receive\obj\Debug\netcoreapp3.1\Receive.csprojAssemblyReference.cache
+D:\work\rabbitmq_1\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfoInputs.cache
+D:\work\rabbitmq_1\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfo.cs
+D:\work\rabbitmq_1\Receive\bin\Debug\netcoreapp3.1\Receive.deps.json
+D:\work\rabbitmq_1\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.json
+D:\work\rabbitmq_1\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.dev.json
+D:\work\rabbitmq_1\Receive\bin\Debug\netcoreapp3.1\Receive.dll
+D:\work\rabbitmq_1\Receive\bin\Debug\netcoreapp3.1\Receive.pdb
+D:\work\rabbitmq_1\Receive\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\work\rabbitmq_1\Receive\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\work\rabbitmq_1\Receive\obj\Debug\netcoreapp3.1\Receive.csproj.CoreCompileInputs.cache
+D:\work\rabbitmq_1\Receive\obj\Debug\netcoreapp3.1\Receive.csproj.CopyComplete
+D:\work\rabbitmq_1\Receive\obj\Debug\netcoreapp3.1\Receive.dll
+D:\work\rabbitmq_1\Receive\obj\Debug\netcoreapp3.1\Receive.pdb
+D:\work\rabbitmq_1\Receive\obj\Debug\netcoreapp3.1\Receive.genruntimeconfig.cache
